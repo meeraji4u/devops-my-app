@@ -58,3 +58,7 @@ I manage production infrastructure for a healthcare provider, including a Jenkin
 ---
 **Author:** Balaji K. — Systems Administrator (DevOps & Infrastructure)
 [GitHub](https://github.com/meeraji4u)
+
+## Build Status
+
+This pipeline triggers automatically on every push via GitHub webhook.
